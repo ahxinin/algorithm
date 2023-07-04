@@ -10,8 +10,12 @@ public class ListNode {
     //指向下一个节点的指针
     ListNode next;
 
+    //指向前一个节点的指针
+    ListNode prev;
+
     //构造函数
     ListNode(int x){
         val = x;
+        prev = next = null;
     }
 }
