@@ -1,4 +1,4 @@
-package com.ahxinin.datastructure;
+package com.ahxinin.datastructure.stack;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,6 @@
-package com.ahxinin.datastructure;
+package com.ahxinin.datastructure.deque;
+
+import com.ahxinin.datastructure.ListNode;
 
 /**
  * 基于双向链表实现的双向队列

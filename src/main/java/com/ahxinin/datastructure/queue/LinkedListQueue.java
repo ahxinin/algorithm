@@ -1,4 +1,6 @@
-package com.ahxinin.datastructure;
+package com.ahxinin.datastructure.queue;
+
+import com.ahxinin.datastructure.ListNode;
 
 /**
  * 基于链表实现的队列

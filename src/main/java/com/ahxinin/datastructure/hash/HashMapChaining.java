@@ -1,4 +1,6 @@
-package com.ahxinin.datastructure;
+package com.ahxinin.datastructure.hash;
+
+import com.ahxinin.datastructure.Pair;
 
 import java.util.ArrayList;
 import java.util.List;

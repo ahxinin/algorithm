@@ -1,4 +1,4 @@
-package com.ahxinin.datastructure;
+package com.ahxinin.datastructure.deque;
 
 /**
  * 基于环形数组实现双向队列

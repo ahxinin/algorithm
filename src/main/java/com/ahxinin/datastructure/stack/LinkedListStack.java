@@ -1,4 +1,6 @@
-package com.ahxinin.datastructure;
+package com.ahxinin.datastructure.stack;
+
+import com.ahxinin.datastructure.ListNode;
 
 /**
  * 基于链表实现的栈

@@ -5,16 +5,16 @@ package com.ahxinin.datastructure;
  */
 public class ListNode {
     //节点值
-    int val;
+    public int val;
 
     //指向下一个节点的指针
-    ListNode next;
+    public ListNode next;
 
     //指向前一个节点的指针
-    ListNode prev;
+    public ListNode prev;
 
     //构造函数
-    ListNode(int x){
+    public ListNode(int x){
         val = x;
         prev = next = null;
     }

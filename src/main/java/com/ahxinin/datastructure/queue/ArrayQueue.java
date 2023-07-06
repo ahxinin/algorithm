@@ -1,4 +1,4 @@
-package com.ahxinin.datastructure;
+package com.ahxinin.datastructure.queue;
 
 /**
  * 基于环形数组实现的队列
