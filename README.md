@@ -1,9 +1,17 @@
-# algorithm
+### 基础知识
+- 基本概念
+- 线性表
+- 栈和队列
+- 树和二叉树
+
+### 实际运用
+- 算法之美
+
 ### 代码结构
-- 数据结构 datastructure
-- 空间复杂度 spacecomplexity
-- 时间复杂度 timecomplexity
-- 排序 sort
-- 分治 divideandconquer
-- 动态规划 dynamicprogramming
-- 贪心算法 greedy
+- datastructure 数据结构
+- divideandconquer 分治
+- dynamicprogramming 动态规划
+- greedy 贪心算法
+- sort 排序
+- spacecomplexity 空间复杂度
+- timecomplexity 时间复杂度
