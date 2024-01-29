@@ -1,11 +1,11 @@
 ### 基础知识
-- 基本概念
-- 线性表
-- 栈和队列
-- 树和二叉树
+- [基本概念](https://github.com/ahxinin/algorithm/blob/main/doc/1.baseConcept.md)
+- [线性表](https://github.com/ahxinin/algorithm/blob/main/doc/2.linearTable.md)
+- [栈和队列](https://github.com/ahxinin/algorithm/blob/main/doc/3.stacksAndQueues.md)
+- [树和二叉树](https://github.com/ahxinin/algorithm/blob/main/doc/4.treesAndBinaryTrees.md)
 
 ### 实际运用
-- 算法之美
+- [算法之美](https://github.com/ahxinin/algorithm/blob/main/doc/5.beautyOfAlgorithms.md)
 
 ### 代码结构
 - datastructure 数据结构
